@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Special Letter</title>
+  <style>
+    body {
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      background: linear-gradient(135deg, hsl(73, 100%, 80%), hsl(91, 26%, 55%), #fad390);
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .letter {
+      background: #fff;
+      max-width: 700px;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      border: 5px solid #ff6b81;
+    }
+    h1 {
+      text-align: center;
+      color: #ff4757;
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    .content {
+      font-size: 18px;
+      color: #2f3542;
+      line-height: 1.8;
+    }
+    .highlight {
+      color: #3742fa;
+      font-weight: bold;
+    }
+    .signature {
+      margin-top: 40px;
+      text-align: right;
+      font-size: 18px;
+      color: #57606f;
+    }
+  </style>
+</head>
+<body>
+  <div class="letter">
+    <h1> A Special Note </h1>
+    <div class="content">
+      <p>Dear <span class="highlight">[VISHWANTH]</span>,</p>
+      <p>
+        Hi, I know it's weird to write something like this……
+HAPPY BIRTHDAY RAWW, it's been many years I've known you, but know we are entering into something new togeather, the face of our life is kinda different, and in fact so beautiful with you. At first I thought you were the same person as before and I really didn’t even expect I would end with you like this, everything changed between us, like everything was normal and friendly talk before, now turned into friendly romantic hehehhe……
+      </p>
+       <p>When I first saw you orientation day I had nothing for you to be honest you were same like the way u were in 10th, but after knowing and talking to you very frequently I understood the you became the best person that you could ever be and eventually I fell for you and without knowing I used to wait for your message like so much I know itzz weried to wait for a text when I didn’t even text you first….
+       </p>
+       <p>Yesterday you asked me something that  will stay ani forever and my answer is YES I WILL!!!! </p>
+       <p>I know this is probably the worst letter u get, but I tried my best and I'm so sorry that I couldn’t give you any gift……….</p>
+       <p>HAPPY 19 YEARS Vishhhhhhhh…….
+Officially you became an adult now……..hehhhe
+Be a more better person possible and be happyyyyy….
+ENJOY YOUR DAY….</p>
+    </div>
+    <div class="signature">
+      With love,<br>
+      <span class="highlight">{your rish}</span><br>
+      📅 [14/09/25]
+    </div>
+  </div>
+</body>
+</html>
