@@ -52,16 +52,17 @@
       <p>Dear <span class="highlight">[VISHWANTH]</span>,</p>
       <p>
         Hi, I know it's weird to write something like this……
-HAPPY BIRTHDAY RAWW, it's been many years I've known you, but know we are entering into something new togeather, the face of our life is kinda different, and in fact so beautiful with you. At first I thought you were the same person as before and I really didn’t even expect I would end with you like this, everything changed between us, like everything was normal and friendly talk before, now turned into friendly romantic hehehhe……
+HAPPY BIRTHDAY RAWW, it's been many years I've known you, but know we are entering into something new together, the face of our life is kinda different, and in fact so beautiful with you. At first I thought you were the same person as before and I really didn’t even expect I would end with you like this, everything changed between us, like normal, friendly to friendly romantic hehehhe……
       </p>
-       <p>When I first saw you orientation day I had nothing for you to be honest you were same like the way u were in 10th, but after knowing and talking to you very frequently I understood the you became the best person that you could ever be and eventually I fell for you and without knowing I used to wait for your message like so much I know itzz weried to wait for a text when I didn’t even text you first….
+       <p>When I first saw you on orientation day I had nothing for you,you where just the same old 10th friend to me, but after knowing and talking to you very frequently I understood the you became the best person that you could ever be and eventually I fell for you and without knowing I used to wait for your message like so much I know itzz weried to wait for a text when I didn’t even text you first….
        </p>
-       <p>Yesterday you asked me something that  will stay ani forever and my answer is YES I WILL!!!! </p>
+       <p>Day before yesterday you asked me something that  will stay ani forever and my answer is YES I WILL!!!! </p>
        <p>I know this is probably the worst letter u get, but I tried my best and I'm so sorry that I couldn’t give you any gift……….</p>
        <p>HAPPY 19 YEARS Vishhhhhhhh…….
-Officially you became an adult now……..hehhhe
-Be a more better person possible and be happyyyyy….
-ENJOY YOUR DAY….</p>
+Officially, you became an adult now……..hehhhe
+Be a better person possible and be happyyyyy….
+ENJOY YOUR DAY….
+       E code ni link loki covert cheyadaniki kastapada............ so this is something from my side to you. I know it's so small, but I tried my best</p>
     </div>
     <div class="signature">
       With love,<br>
